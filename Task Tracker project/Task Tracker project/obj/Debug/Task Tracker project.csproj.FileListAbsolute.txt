@@ -1,0 +1,7 @@
+D:\Programming\BackEnd\backend_CIS_sessions\Task Tracker project\Task Tracker project\obj\Debug\Task Tracker project.csproj.AssemblyReference.cache
+D:\Programming\BackEnd\backend_CIS_sessions\Task Tracker project\Task Tracker project\obj\Debug\Task Tracker project.csproj.CoreCompileInputs.cache
+D:\Programming\BackEnd\backend_CIS_sessions\Task Tracker project\Task Tracker project\bin\Debug\Task Tracker project.exe.config
+D:\Programming\BackEnd\backend_CIS_sessions\Task Tracker project\Task Tracker project\bin\Debug\Task Tracker project.exe
+D:\Programming\BackEnd\backend_CIS_sessions\Task Tracker project\Task Tracker project\bin\Debug\Task Tracker project.pdb
+D:\Programming\BackEnd\backend_CIS_sessions\Task Tracker project\Task Tracker project\obj\Debug\Task Tracker project.exe
+D:\Programming\BackEnd\backend_CIS_sessions\Task Tracker project\Task Tracker project\obj\Debug\Task Tracker project.pdb
